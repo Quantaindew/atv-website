@@ -1,38 +1,8 @@
-# sv
-
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+### This project was setup with the following command confuguration:
 
 ```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+bun x sv create --template minimal --types ts --add prettier eslint tailwindcss="plugins:typography" --install bun atv-website
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+### Project Overview
+The goal of this project is to create a simple website for an ATV rental business, there is no fancy logic as all the bookings are handled by phone calls or whatsapp. This website is primary meant for mobile. Users can see all the infomation they need to make a booking decision and then contact the business directly. The website will hold information such as location, contact information, and available vehicles, eligibility requirements, and safety guidelines. Pricing is to be excluded from being displayed on the website to encourage potential customers to reach out directly for a personalized quote.
