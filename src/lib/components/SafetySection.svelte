@@ -4,7 +4,7 @@
 		<div class="prose lg:prose-xl mx-auto">
 			<p class="mb-6">Your safety is our top priority.</p>
 			<ul class="space-y-4 text-lg">
-				<li>High-quality helmets and protective gear provided free.</li>
+				<li>Wear the protective safety equipement provided.</li>
 				<li>Mandatory safety briefing before every ride.</li>
 				<li>Experienced guides accompany all groups.</li>
 				<li>Follow guide instructions at all times.</li>
