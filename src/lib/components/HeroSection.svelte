@@ -63,7 +63,7 @@
 					? 'bg-white scale-125'
 					: 'bg-white/50 hover:bg-white'}"
 				aria-label="Go to slide {i + 1}"
-			/>
+			></button>
 		{/each}
 	</div>
 </section>
