@@ -15,7 +15,7 @@
 		</div>
 		<div class="space-y-2 text-xl">
 			<p>@ Q C Farm (Taájem), Near Bogmalo Church, Bogmalo - Goa</p>
-			<p>Instagram: <a href="https://www.instagram.com/the_atv_club" target="_blank" rel="noopener" class="underline hover:no-underline">@the_atv_club</a></p>
+			<p>Instagram: <a href="https://www.instagram.com/the_atv_club" target="_blank" rel="noopener" class="hover:underline">the_atv_club</a></p>
 		</div>
 	</div>
 </section>
