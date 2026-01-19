@@ -1,10 +1,10 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 
-	import carousel0 from '$lib/assets/carousel-0.jpg';
-	import carousel1 from '$lib/assets/carousel-1.jpg';
-	import carousel2 from '$lib/assets/carousel-2.jpg';
-	import carousel3 from '$lib/assets/carousel-3.jpg';
+	import carousel0 from '$lib/assets/carousel/carousel-0.jpg';
+	import carousel1 from '$lib/assets/carousel/carousel-1.jpg';
+	import carousel2 from '$lib/assets/carousel/carousel-2.jpg';
+	import carousel3 from '$lib/assets/carousel/carousel-3.jpg';
 
 	const images = [carousel0, carousel1, carousel2, carousel3] as const;
 
