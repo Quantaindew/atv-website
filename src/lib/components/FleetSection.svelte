@@ -59,7 +59,7 @@
 				<div class="p-6 flex-1">
 					<h3 class="text-3xl mb-4">110cc ATV</h3>
 					<p class="text-lg">
-						Beginner-friendly ATV, perfect for first-timers and families.
+						Beginner-friendly ATV, perfect for first-timers and minors.
 						<strong class="block mt-4">Rates:</strong>
 						₹600 — Single rider
 					</p>
