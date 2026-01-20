@@ -1,5 +1,5 @@
 <script lang="ts">
-	import beach from '$lib/assets/atvs/atv-red.png';
+	import beach from '$lib/assets/otheractivities/beach.png';
 	import atvBlue from '$lib/assets/atvs/atv-blue.png';
 	import atvSmall from '$lib/assets/atvs/atv-small.png';
 </script>
@@ -19,12 +19,11 @@
 					/>
 				</div>
 				<div class="p-6 flex-1">
-					<h3 class="text-3xl mb-4">300cc ATV</h3>
+					<h3 class="text-3xl mb-4">Beach Rides with 500cc 4 Wheel Drive ATVs</h3>
 					<p class="text-lg">
-						High-performance ATV suitable for single or double riders.
-						<strong class="block mt-4">Rates:</strong>
-						₹800 — Single rider<br />
-						₹1200 — Double riders
+						<strong class="block mt-4">Rates (15 Mins):</strong>
+							₹2000 — Single <br />
+							₹3000 — Double
 					</p>
 				</div>
 			</div>
