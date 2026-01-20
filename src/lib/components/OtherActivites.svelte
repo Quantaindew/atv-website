@@ -1,19 +1,20 @@
 <script lang="ts">
-	import atvRed from '$lib/assets/atvs/atv-red.png';
+	import beach from '$lib/assets/atvs/atv-red.png';
 	import atvBlue from '$lib/assets/atvs/atv-blue.png';
 	import atvSmall from '$lib/assets/atvs/atv-small.png';
 </script>
 
-<section class="py-20 bg-gray-100">
+<section class="py-20 bg-white">
 	<div class="container mx-auto px-6">
-		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">Rides Start From Rs 500/- to 1200/- Based on ATV Size, Solo/Double Rides For Duration of 15 minutes or 5 Laps Around The Farm</h2>
+		<h2 class="text-5xl md:text-5xl text-center text-blue-600 mb-12 uppercase tracking-wide">Other Activities</h2>
+		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">We also cater to special requests like beach rides, couple entry for Weddings/Haldi/Anniversaries/Birthdays and other functions.</h2>
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-10">
-			<!-- 300cc Red ATV -->
+			<!-- 300cc Beach ATV -->
 			<div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col aspect-[610/987]">
 				<div class="aspect-square">
 					<img
-						src={atvRed}
-						alt="300cc Red ATV"
+						src={beach}
+						alt="300cc Beach ATV"
 						class="size-full object-cover"
 					/>
 				</div>

@@ -5,6 +5,7 @@
 	import EligibilitySection from '$lib/components/EligibilitySection.svelte';
 	import SafetySection from '$lib/components/SafetySection.svelte';
 	import CtaSection from '$lib/components/CtaSection.svelte';
+	import OtherActivites from '$lib/components/OtherActivites.svelte';
 </script>
 
 <svelte:head>
@@ -15,6 +16,7 @@
 <HeroSection />
 <AboutSection />
 <FleetSection />
+<OtherActivites />
 <EligibilitySection />
 <SafetySection />
 <CtaSection />

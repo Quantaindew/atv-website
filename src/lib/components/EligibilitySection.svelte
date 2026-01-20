@@ -1,4 +1,4 @@
-<section class="py-20 bg-white">
+<section class="py-20 bg-gray-100">
 	<div class="container mx-auto px-6 max-w-4xl">
 		<h2 class="text-4xl md:text-5xl text-center text-blue-600 mb-12 uppercase tracking-wide">
 			Eligibility Requirements
