@@ -4,9 +4,13 @@
 @plugin '@tailwindcss/typography';
 
 @layer base {
+	html {
+		@apply overflow-x-hidden;
+	}
+
 	body {
 		font-family: 'Open Sans', sans-serif;
-		@apply bg-gray-50 text-gray-800;
+		@apply bg-gray-50 text-gray-800 overflow-x-hidden;
 	}
 
 	h1,
