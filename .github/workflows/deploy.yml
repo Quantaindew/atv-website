@@ -1,7 +1,9 @@
 name: Deploy to GitHub Pages
+
 on:
   push:
     branches: ['main']
+
 jobs:
   build_site:
     runs-on: ubuntu-latest
@@ -15,10 +17,9 @@ jobs:
       - name: Install dependencies
         run: bun install
 
-      - name: Build
-        env:
-          BASE_PATH: '/${{ github.event.repository.name }}'
+      - name: Build (for root path)
         run: bun run build
+        # No BASE_PATH — builds with empty base for custom domain at root
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
