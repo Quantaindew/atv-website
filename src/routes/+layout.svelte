@@ -33,7 +33,14 @@
 			class="absolute left-4 top-10 h-16 w-16 md:left-6 md:h-20 md:w-20 rounded-full object-cover shadow-2xl"
 		/>
 		<h3 class="text-2xl font-bold uppercase">The ATV Club</h3>
-		<p>@ Q C Farm (Taájem),<br />Near Bogmalo Church,<br />Bogmalo - Goa</p>
+		<p>
+			<a
+				href="https://maps.app.goo.gl/xnFUpxmpuPMzmeDv6"
+				target="_blank"
+				rel="noopener"
+				class="hover:underline">@ Q C Farm (Taájem),<br />Near Bogmalo Church,<br />Bogmalo - Goa</a
+			>
+		</p>
 		<p class="text-lg">
 			WhatsApp / Call: <a href="tel:+919423322588" class="hover:underline">+91 94233 22588</a>
 		</p>
