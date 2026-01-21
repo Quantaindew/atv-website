@@ -4,7 +4,7 @@
 		<div class="grid md:grid-cols-2 gap-12 items-center">
 			<div class="prose lg:prose-xl space-y-4">
 				<p>Experience exhilarating ATV rides through scenic trails at our location in beautiful Bogmalo, Goa.</p>
-				<p>Based at Q C Farm (Taájem), near Bogmalo Church, we cater to beginners, families, and thrill-seekers with professional guides and top safety standards.</p>
+				<p>Based at Q C Farm (Taájem), near Bogmalo Church, we cater to beginners, families, and thrill-seekers with guides and top safety standards.</p>
 				<p>Track consists of scenic ride through organic farms amid palms and other fruit/flower/spice bearing trees, rivulets, ponds, turkey, ducks, poultry and other farm animals.</p>
 				<p>All rides include safety gear and briefing. Reach out directly for availability and personalized quotes based on group size and duration.</p>
 			</div>

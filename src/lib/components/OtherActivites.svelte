@@ -45,7 +45,7 @@
 						
 						<strong class="block mt-4">Rates:</strong>
 						₹20,000 For First 2 hours <br />
-						Inclusive of operator fuel and transportation to any location in Goa. <br /> 
+						Inclusive of operator, fuel and transportation to any location in Goa. <br /> 
 						Thereafter ₹5,000 for every additional hour.
 					</p>
 				</div>
@@ -66,7 +66,7 @@
 						
 						<strong class="block mt-4">Rates:</strong>
 						₹15,000 For First 2 hours <br />
-						Inclusive of operator fuel and transportation to any location in Goa. <br /> 
+						Inclusive of operator, fuel and transportation to any location in Goa. <br /> 
 						Thereafter ₹5,000 for every additional hour.
 					</p>
 				</div>
