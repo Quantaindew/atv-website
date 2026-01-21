@@ -62,7 +62,7 @@
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">Weddings/Haldi/Anniversary</h3>
+					<h3 class="text-3xl mb-4">Weddings/Haldi Anniversaries Birthdays</h3>
 					<p class="text-lg">
 						<strong class="block mt-4">Rates:</strong>
 						₹15,000 For First 2 hours <br />
