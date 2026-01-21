@@ -8,7 +8,7 @@
 	<div class="container mx-auto px-6">
 		<h2 class="text-5xl md:text-5xl text-center text-blue-600 mb-12 uppercase tracking-wide">Other Activities</h2>
 		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">
-			We also cater to special requests like beach rides, couple entry for Weddings/Haldi/Anniversaries/Birthdays and other functions.
+			We also cater to special requests like beach rides, couple entry for Weddings/Haldi, Anniversaries, Birthdays and other functions.
 		</h2>
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-10">
 			<!-- Beach Rides -->

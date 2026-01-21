@@ -43,8 +43,7 @@
 					<p class="text-lg">
 						Suitable for teenagers seeking a thrilling ride.
 						<strong class="block mt-4">Rates:</strong>
-						₹800 — Single rider<br />
-						₹1200 — Double riders
+						₹600 — Single rider<br />
 					</p>
 				</div>
 			</div>
@@ -63,7 +62,7 @@
 					<p class="text-lg">
 						Perfect for first-timers, younger riders or those wanting a gentler experience.
 						<strong class="block mt-4">Rates:</strong>
-						₹600 — Single rider
+						₹500 — Single rider
 					</p>
 				</div>
 			</div>
