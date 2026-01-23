@@ -23,7 +23,7 @@
 				<div class="p-6">
 					<h3 class="text-3xl mb-4">Beach Rides with 500cc 4 Wheel Drive ATVs</h3>
 					<p class="text-lg">
-						<strong class="block mt-4">Rates (15 Mins):</strong>
+						<strong class="block mt-4">Rates (20 Mins):</strong>
 						₹2000 — Single <br />
 						₹3000 — Double <br />
 						<br />
@@ -67,7 +67,7 @@
 						<strong class="block mt-4">Rates:</strong>
 						₹15,000 For First 2 hours <br />
 						Inclusive of operator, fuel and transportation to any location in Goa. <br /> 
-						Thereafter ₹5,000 for every additional hour.
+						Thereafter ₹5,000 for every additional 2 hours.
 					</p>
 				</div>
 			</div>
