@@ -44,12 +44,14 @@
 
 		<div class="flex flex-col md:flex-row gap-6 justify-center mb-12">
 			<a
-				href="https://wa.me/919423322588?text=Hello!%20I'm%20interested%20in%20ATV%20rides%20at%20The%20ATV%20Club."
+				href="https://wa.me/919423322588?text=Hi!%20I%27d%20like%20to%20book%20an%20ATV%20ride%20at%20The%20ATV%20Club."
 				class="btn-whatsapp text-xl"
 			>
-				Chat on WhatsApp
+				Book via WhatsApp
 			</a>
-			<a href="tel:+919423322588" class="btn-primary text-xl">Call Us Now</a>
+			<a href="tel:+919423322588" class="btn-primary text-xl">
+				Book via Call
+			</a>
 		</div>
 
 		<!-- Carousel indicators (now inside content area) -->
