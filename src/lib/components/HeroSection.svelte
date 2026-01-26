@@ -19,7 +19,7 @@
 	});
 </script>
 
-<section class="relative h-[80vh] md:h-screen flex items-center justify-center text-white overflow-hidden">
+<section class="relative h-[80vh] md:h-screen text-white overflow-hidden">
 	<!-- Carousel images -->
 	{#each images as src, index}
 		<img
@@ -35,14 +35,14 @@
 	<!-- Dark overlay -->
 	<div class="absolute inset-0 bg-black/60"></div>
 
-	<!-- Hero content -->
-	<div class="relative z-10 container mx-auto px-6 text-center">
-		<h1 class="text-5xl md:text-7xl mb-6 drop-shadow-2xl uppercase tracking-wider">
-			The ATV Club
+	<!-- Hero content - pinned to bottom -->
+	<div class="absolute inset-x-0 bottom-0 z-10 container mx-auto px-6 text-center pb-20 md:pb-28">
+		<h1 class="text-4xl md:text-6xl mb-6 drop-shadow-2xl uppercase tracking-wider">
+			Thrilling Off-Road Adventures
 		</h1>
-		<p class="text-2xl md:text-3xl mb-4 drop-shadow-lg">Thrilling Off-Road Adventures</p>
-		<p class="text-xl md:text-2xl mb-10 drop-shadow-lg">Bogmalo, Goa</p>
-		<div class="flex flex-col md:flex-row gap-6 justify-center">
+		<p class="text-2xl md:text-4xl mb-10 drop-shadow-lg">Bogmalo, Goa</p>
+
+		<div class="flex flex-col md:flex-row gap-6 justify-center mb-12">
 			<a
 				href="https://wa.me/919423322588?text=Hello!%20I'm%20interested%20in%20ATV%20rides%20at%20The%20ATV%20Club."
 				class="btn-whatsapp text-xl"
@@ -51,19 +51,19 @@
 			</a>
 			<a href="tel:+919423322588" class="btn-primary text-xl">Call Us Now</a>
 		</div>
-	</div>
 
-	<!-- Carousel indicators -->
-	<div class="absolute bottom-8 left-1/2 -translate-x-1/2 flex space-x-3 z-20">
-		{#each images as _, i}
-			<button
-				type="button"
-				on:click={() => (currentIndex = i)}
-				class="w-3 h-3 rounded-full transition-all {currentIndex === i
-					? 'bg-white scale-125'
-					: 'bg-white/50 hover:bg-white'}"
-				aria-label="Go to slide {i + 1}"
-			></button>
-		{/each}
+		<!-- Carousel indicators (now inside content area) -->
+		<div class="flex space-x-3 justify-center">
+			{#each images as _, i}
+				<button
+					type="button"
+					on:click={() => (currentIndex = i)}
+					class="w-3 h-3 rounded-full transition-all {currentIndex === i
+						? 'bg-white scale-125'
+						: 'bg-white/50 hover:bg-white'}"
+					aria-label="Go to slide {i + 1}"
+				></button>
+			{/each}
+		</div>
 	</div>
 </section>
