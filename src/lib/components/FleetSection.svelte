@@ -6,7 +6,7 @@
 
 <section class="py-20 bg-white">
 	<div class="container mx-auto px-6">
-		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">Rides Start From Rs 500/- to 1200/- Based on ATV Size, Solo/Double Rides For Duration of 20 minutes or 5 Rounds Around The Farm</h2>
+		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">Rides Start From Rs 500/- to 1200/- Based on ATV Size, Solo/Double Rides For Duration of 20 minutes or 6 Rounds Around The Farm</h2>
 
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-10">
 			<!-- 300cc ATV (Red) -->
@@ -23,8 +23,8 @@
 					<p class="text-lg">
 						High-performance ATV suitable for single or double riders.
 						<strong class="block mt-4">Rates:</strong>
-						₹800 — Single rider<br />
-						₹1200 — Double riders
+						₹900 — Single rider<br />
+						₹1400 — Double riders
 					</p>
 				</div>
 			</div>
@@ -43,7 +43,7 @@
 					<p class="text-lg">
 						Suitable for teenagers seeking a thrilling ride.
 						<strong class="block mt-4">Rates:</strong>
-						₹600 — Single rider<br />
+						₹700 — Single rider<br />
 					</p>
 				</div>
 			</div>
@@ -62,7 +62,7 @@
 					<p class="text-lg">
 						Perfect for first-timers, younger riders or those wanting a gentler experience.
 						<strong class="block mt-4">Rates:</strong>
-						₹500 — Single rider
+						₹600 — Single rider
 					</p>
 				</div>
 			</div>
