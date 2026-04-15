@@ -1,8 +1,8 @@
 <script lang="ts">
 	import './layout.css';
-	import favicon from '$lib/assets/favicon.svg';
 	import logo from '$lib/assets/atv-logo.jpg';
-
+	const favicon = logo;
+	
 	let { children } = $props();
 </script>
 
