@@ -96,10 +96,10 @@
 				href="https://wa.me/919423322588?text=Hi!%20I%27d%20like%20to%20book%20an%20ATV%20adventure%20at%20The%20ATV%20Club."
 				class="btn-whatsapp py-2.5 px-6 text-base md:text-lg"
 			>
-				Book via WhatsApp
+				Click to Book via WhatsApp
 			</a>
 			<a href="tel:+919423322588" class="btn-primary py-2.5 px-6 text-base md:text-lg">
-				Book via Call
+				Click to Book via Call
 			</a>
 		</div>
 

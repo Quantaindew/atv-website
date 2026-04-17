@@ -5,13 +5,13 @@
 
 		<div class="flex flex-col md:flex-row gap-6 justify-center mb-10">
 			<a href="tel:+919423322588" class="btn-primary bg-white text-blue-600 hover:bg-gray-100 text-xl">
-				Book via Call +91 94233 22588
+				Click to Book via Call +91 94233 22588
 			</a>
 			<a
 				href="https://wa.me/919423322588?text=Hi!%20I%27d%20like%20to%20book%20an%20ATV%20adventure%20at%20The%20ATV%20Club."
 				class="btn-whatsapp text-xl"
 			>
-				Book via WhatsApp
+				Click to Book via WhatsApp
 			</a>
 		</div>
 		<div class="space-y-2 text-xl">
