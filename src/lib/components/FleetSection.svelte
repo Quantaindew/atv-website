@@ -23,8 +23,8 @@
 					<p class="text-lg">
 						High-performance ATV suitable for single or double riders.
 						<strong class="block mt-4">Rates:</strong>
-						₹900 — Single rider<br />
-						₹1400 — Double riders
+						₹900 — Single rider 👤<br />
+						₹1400 — Double riders 👤👤
 					</p>
 				</div>
 			</div>
@@ -43,7 +43,7 @@
 					<p class="text-lg">
 						Suitable for teenagers seeking a thrilling ride.
 						<strong class="block mt-4">Rates:</strong>
-						₹700 — Single rider<br />
+						₹700 — Single rider 👤<br />
 					</p>
 				</div>
 			</div>
@@ -62,7 +62,7 @@
 					<p class="text-lg">
 						Perfect for first-timers, younger riders or those wanting a gentler experience.
 						<strong class="block mt-4">Rates:</strong>
-						₹600 — Single rider
+						₹600 — Single rider 👤
 					</p>
 				</div>
 			</div>
