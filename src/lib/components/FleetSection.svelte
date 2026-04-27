@@ -9,17 +9,17 @@
 		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">Rides Start From Rs 600/- to 1400/- Based on ATV Size, Solo/Double Rides For Duration of 25-30 minutes or 6 Rounds (approx 2.5 km) Around The Farm</h2>
 
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-10">
-			<!-- 300cc ATV (Red) -->
+			<!-- Big ATV (Red) -->
 			<div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col">
 				<div class="aspect-square overflow-hidden rounded-t-2xl">
 					<img
 						src={atvRed}
-						alt="300cc Red ATV"
+						alt="Big Red ATV"
 						class="size-full object-cover object-center"
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">300cc ATV (Big)</h3>
+					<h3 class="text-3xl mb-4">Big ATV (Big)</h3>
 					<p class="text-lg">
 						High-performance ATV suitable for single or double riders.
 						<strong class="block mt-4">Rates:</strong>
@@ -29,17 +29,17 @@
 				</div>
 			</div>
 
-			<!-- 135cc ATV (Blue) -->
+			<!-- Medium ATV (Blue) -->
 			<div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col">
 				<div class="aspect-square overflow-hidden rounded-t-2xl">
 					<img
 						src={atvBlue}
-						alt="135cc  Blue ATV"
+						alt="Medium  Blue ATV"
 						class="size-full object-cover object-center"
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">135cc ATV (Medium)</h3>
+					<h3 class="text-3xl mb-4">Medium ATV (Medium)</h3>
 					<p class="text-lg">
 						Suitable for teenagers seeking a thrilling ride.
 						<strong class="block mt-4">Rates:</strong>
@@ -58,7 +58,7 @@
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">110cc ATV (Small)</h3>
+					<h3 class="text-3xl mb-4">Small ATV (Small)</h3>
 					<p class="text-lg">
 						Perfect for first-timers, younger riders or those wanting a gentler experience.
 						<strong class="block mt-4">Rates:</strong>
