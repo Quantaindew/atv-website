@@ -19,7 +19,7 @@
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">Big ATV (Big)</h3>
+					<h3 class="text-3xl mb-4">Big ATVs (300cc-250cc))</h3>
 					<p class="text-lg">
 						High-performance ATV suitable for single or double riders.
 						<strong class="block mt-4">Rates:</strong>
@@ -39,7 +39,7 @@
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">Medium ATV (Medium)</h3>
+					<h3 class="text-3xl mb-4">Medium ATVs (125cc)</h3>
 					<p class="text-lg">
 						Suitable for teenagers seeking a thrilling ride.
 						<strong class="block mt-4">Rates:</strong>
@@ -58,7 +58,7 @@
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">Small ATV (Small)</h3>
+					<h3 class="text-3xl mb-4">Small ATVs (110cc)</h3>
 					<p class="text-lg">
 						Perfect for first-timers, younger riders or those wanting a gentler experience.
 						<strong class="block mt-4">Rates:</strong>
