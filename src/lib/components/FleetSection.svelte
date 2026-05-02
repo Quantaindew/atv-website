@@ -19,7 +19,7 @@
 					/>
 				</div>
 				<div class="p-6">
-					<h3 class="text-3xl mb-4">Big ATVs (300cc-250cc))</h3>
+					<h3 class="text-3xl mb-4">Big ATVs (300cc)</h3>
 					<p class="text-lg">
 						High-performance ATV suitable for single or double riders.
 						<strong class="block mt-4">Rates:</strong>
