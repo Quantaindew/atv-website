@@ -6,7 +6,7 @@
 
 <section class="py-20 bg-white">
 	<div class="container mx-auto px-6">
-		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">Rides Start From Rs 700/- to 1600/- Based on ATV Size, Solo/Double Rides For Duration of 25-30 minutes or 7 Rounds (approx 2.5 km) Around The Farm</h2>
+		<h2 class="text-3xl md:text-3xl text-center text-blue-600 mb-12 uppercase tracking-wide">Rides Start From Rs 700/- to 1600/- Based on ATV Size, Solo/Double Rides for 6 Rounds (approx 2.1 km) Around The Farm. The Duration of the activity is around 25-30 minutes</h2>
 
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-10">
 			<!-- Big ATV (Red) -->
